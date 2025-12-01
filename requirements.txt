@@ -1,0 +1,7 @@
+jsonschema
+openai
+pytest
+python-docx
+streamlit
+scikit-learn
+PyPDF2
