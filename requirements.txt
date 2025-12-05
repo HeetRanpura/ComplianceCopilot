@@ -5,3 +5,6 @@ python-docx
 streamlit
 scikit-learn
 PyPDF2
+sentence-transformers
+faiss-cpu
+numpy
